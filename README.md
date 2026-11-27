@@ -97,6 +97,11 @@ plt.show()
 
 ## Output
 
+**Input image**
+
+<img width="165" height="207" alt="image" src="https://github.com/user-attachments/assets/7aabb679-e54d-4e07-878b-01011f0719a8" />
+
+
 **Global Thresholding**
 
 <img width="166" height="182" alt="image" src="https://github.com/user-attachments/assets/82ff2b2d-f9c8-4a83-a085-5b4eca71e6ed" />
